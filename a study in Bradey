@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+  <head>
+
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="Runreason" href = "RN.html">
+  <link rel="SGreason" href = "SG.html">
+  <link rel="CDreason" href = "CD.html">
+  <link rel="DISreason" href = "DIS.html">
+  <link rel="HERreason" href = "HER.html">
+  <link rel="COFreason" href = "COF.html">
+<link rel="RDreason" href = "RD.html">
+
+    }
+
+
+
+
+<script>
+function funF() {
+    document.getElementById("FUN").innerHTML = " Here are a couple random fun facts about me! First off, I love dogs and plan on having four when I am older. Second, I love to wear heels. Third, I hope to go into some type of engineering. Fourth, and final, I love being fashionable.";
+      }
+
+
+
+
+
+  </script>
+
+  <a Page Title: Bradey’s Profile </a>
+    <script src="skr.js"></script>
+
+  </head>
+
+
+<style>
+
+
+  body {
+  background-image: url("GAL.jpeg");
+
+  </style>
+  <h1 style="background-color: powderblue;">
+  <p style= "color: black"> You may know me, you may not. Hello, I am Bradey! </p> </h1>
+  <h2>
+  <p style = "color: powderblue;"> This is my profile page! I am Bradey, a small town girl with big dreams. You can find out more about me on this page.</h2> </p>
+
+
+
+<img src = "BRAD.jpg" width = "150" height = "200" alt="An electronically drawn picture of Bradey.">
+
+<h3>
+  <p  style = "color: white;"> Basics:
+  	<div style = "color: magenta;"> <strong> Age </strong> : 16 </div>
+  	<div style = "color: purple;"> <strong> Birthday </strong> : Jan 9, 2003 (Capricorn) </div>
+  	<div style = "color: magenta;"> <strong> Hometown </strong> : Concord, NC </div>
+  	<div style = "color: purple;"> <strong> Likes </strong> : Singing, running, coding, reading, discovering, and anything superhero/power related. </div>
+  	<div style = "color: magenta;"> <strong> Dislikes </strong> : Hearing my own voice, unripe bananas, oranges, and annoying people. </div>
+    <div style = "color: purple;"> <strong> Favorite Book/Series </strong> : The Lunar Chronicles, No Good Deed </div>
+    <div id="FUN" style = "color: orchid;"> Fun fact: I am a coffee addict!  </div>
+<button type="button" onclick= "funF()"> Click for more facts! </button>
+
+  </p>
+
+  <p style = "color: white;"> Songs I sing:
+  <div style = "color: teal;"> 1. Coming Soon </div>
+  <div style = "color: turquoise;"> 2. Coming soon </div>
+  <div style = "color: teal;"> 3. Coming Soon </div>
+  </h3> </p>
+
+  <p style = "color: white;"> My profile pictures.
+  <a href= "Profile Pic.html" img src=""> Profile Picture </a> </p>
+
+  <p>
+    <div style = "fontSize:35">
+      <p style =  "color: orchid" > More information about my likes! </div> </p>
+<div>  <a style = "color: gray" href= "RN.html"> Why I like to run </a></div>
+<div> <a style = "color: white" href= "SG.html"> Why I like to sing </a></div>
+<div> <a style = "color: gray" href= "CD.html"> Why I like to code </a></div>
+<div> <a style = "color: white" href= "RD.html"> Why I like to read </a></div>
+<div> <a style = "color: gray" href= "DIS.html"> Why I like to discover </a></div>
+<div> <a style = "color: white" href= "HER.html"> Why I like heroes </a></div>
+<div> <a style = "color: gray" href= "COF.html"> Why I like coffee </a></div>
+
+
+  </body>
+</html>
